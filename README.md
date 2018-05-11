@@ -1,11 +1,6 @@
 # Welcome to GitHub Pages
 
-Hello the world  
-From Alex
 
-A list of tools & resources for designers.
-
-----
 
 *最近半年初入设计圈，收集了不少 bookmark 想在年底来一个总结。
 于是创建了这个 Resource List 项目，旨在让更多的设计师找资源变得有章可循。
