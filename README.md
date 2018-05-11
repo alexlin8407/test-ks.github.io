@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 Hello the world  
 From Alex
-# design-resource
 
 A list of tools & resources for designers.
 
