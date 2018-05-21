@@ -12,7 +12,7 @@
 Most of the time you don't need to draw your own icons, or take your own photos. You just find free stuff online and combine them to create your design. The links below will help you get started:
 
 
-1. ## Images (free & CC )
+## 1.Images (free & CC )
 
 + [Unsplash](https://unsplash.com/) Beautiful high resolution images (and free to use!) 
 
@@ -25,7 +25,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
   Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 
 
-2. ## Icons
+## 2.Icons
 
 + http://www.pixellove.com/free-ios-and-android-icons
 + http://www.streamlineicons.com/
@@ -33,7 +33,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
 
 
-3. ## Fonts
+## 3.Fonts
 
 + [whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) Chrome plugin to see what fonts are used.
 
@@ -45,7 +45,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + [W3C关于纵书的规范](http://www.w3.org/TR/css3-writing-modes/)
 
 
-4. ## Colors
+## 4.Colors
 
 The easiest way to build a color pallete is by sampling colors from an existing image.
 
@@ -56,7 +56,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Brand Colors](http://brandcolors.net/)
 
 
-5. ##  Guidelines
+##  5.Guidelines
 + [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
 
 + iOS Human Interface Guidelines：Designing for iOS 7★（iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响）
